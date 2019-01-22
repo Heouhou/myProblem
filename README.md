@@ -35,12 +35,12 @@
 
  > Set转换为String
 
-    ``` java
-    	public static void setToString(){
-    		Set<String> set = new HashSet<>();
-    		String.join("", set);
-    	}
-    ```
+```java
+public static void setToString(){
+	Set<String> set = new HashSet<>();
+	String.join("", set);
+}
+```
     
     
 *  //TODO MDL链接 [数组、String、List、Set之间的相互转换问题](introduce.md)
@@ -50,12 +50,12 @@
 
 
 ##  Mysql
-### 1. **SUM 函数的用法**
+### 1.**SUM 函数的用法**
 ```sql
 select sum(money) from user group by id;
 ```
 
-###2.**SQL日期格式化**
+### 2.**SQL日期格式化**
 ```sql
 oracle：
 
