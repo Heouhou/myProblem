@@ -3,7 +3,7 @@
 
 ##   Java
 
-###  1**. 【Java笔记】Java8中数组(引用类型)、String、List、Set之间的相互转换问题**
+###  1. 【Java笔记】Java8中数组(引用类型)、String、List、Set之间的相互转换问题
 
 * 问题场景 : 有一些String 需要去重,想到用利用Set 去重的原理来进行去重,期间用到了String 和Set 之间的转换
 * 网站链接: [数组、String、List、Set之间的相互转换问题](https://blog.csdn.net/SnailMann/article/details/80614006)
